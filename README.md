@@ -8,3 +8,6 @@ Use the string data type whenever you have alphanumeric words, phrases, or data 
 
 ## 5 Data Types
 1-char literals
+2-int Literals
+3-Floating point Literals(float,double,decimel)
+4-Boolean Literal
