@@ -6,8 +6,8 @@ A literal value is a constant value that never changes. Previously, you displaye
 
 Use the string data type whenever you have alphanumeric words, phrases, or data for presentation, not calculation. What other kinds of literal data can you print to output?
 
-## 5 Data Types
-1-char literals
-2-int Literals
-3-Floating point Literals(float,double,decimel)
-4-Boolean Literal
+##  Data Types
+1-char literals  
+2-int Literals  
+3-Floating point Literals(float,double,decimal)  
+4-Boolean Literal  
