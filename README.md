@@ -3,7 +3,6 @@ https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/write-you
 ## CSharp
 What is a literal value?
 A literal value is a constant value that never changes. Previously, you displayed a literal string to the output console. In other words, you literally wanted that string of alphanumeric characters H, e, l, l, o, and so on, displayed in the output console.
-
 Use the string data type whenever you have alphanumeric words, phrases, or data for presentation, not calculation. What other kinds of literal data can you print to output?
 
 ##  Data Types
@@ -26,3 +25,7 @@ Here's what you've learned about the var keyword so far:
 
 1. The var keyword tells the compiler to infer the data type of the variable based on the value it is initialized to.
 2. You'll likely see the var keyword as you read other people's code; however, you should use the data type when possible.
+## Summary(Unit 2,  Store and retrieve data using literal and variable values in C#)
+
+Your goal was to display a formatted message using a combination of literal and variable values.
+Using basic C# syntax, you created literal values of several different data types. You declared variables, and also set and retrieved values from those variables. You also initialized variables, and learned how to use the var keyword to implicitly type a variable by inferring the type from the initialization.
